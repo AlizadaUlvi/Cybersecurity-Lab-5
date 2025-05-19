@@ -3,5 +3,5 @@
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/84efbe9cc3e05c9b5e2b5e670e27c7ca84590559/nessus/create%20new%20file.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/a86d26f70adcb43255639cdd20f0c5ee27bf38cf/nessus/vulnerabilities.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/42002b13e45aafaa360266537b6a3332d533108e/nessus/vulnerabilities%202.jpg)
-![image alt]()
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/861efadbc1816ca444e67e69ab020f3d24866328/nessus/description.jpg)
 ![image alt]()

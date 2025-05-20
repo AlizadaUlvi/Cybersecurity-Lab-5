@@ -1,7 +1,7 @@
 # Cybersecurity-Lab-5
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/4fbfdf271fb5b9a8b608e8950ca6f280daf9c068/step_1_1.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/ffd16cd67bfda718717af3f45d097019d9cf9d6a/step_1_2.jpg)
-![image alt]()
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/18b5e954c7fb2d0ec349a73cfd67514b81f8b2a5/step_1_3.jpg)
 ![image alt]()
 ![image alt]()
 ![image alt]()

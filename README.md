@@ -3,7 +3,7 @@
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/ffd16cd67bfda718717af3f45d097019d9cf9d6a/step_1_2.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/18b5e954c7fb2d0ec349a73cfd67514b81f8b2a5/step_1_3.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/f9eaf6b6e016044797a81876113ab2c272e4ec18/step_2_1
-![image alt]()
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/3d3aeef858d1f6eafaa605ca68f6422e9704d659/step_2_2.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/bca96818b1b07760d9e1b109ad68842c4b0af4a2/step_2_3.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/52c1e630486b525068eb25a81263c9d0ab1b320e/step_3_2.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-Lab-5/blob/2c3d67a15423cf80718ab3a3c5a435e2c8e63e66/step_3_3.jpg)
